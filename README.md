@@ -1,2 +1,2 @@
-# openmusic-backend-v1
+# openmusic-backend-v2
 AWS Back-end Academy by Dicoding | OpenMusic V2
